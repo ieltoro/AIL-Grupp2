@@ -1,0 +1,17 @@
+Categori_Object_world_Version
+
+
+World Names:
+
+
+
+Textuering ex:
+
+Texture_Bord_World_1_Albedo
+Texture_Bord_World_1_Nomral
+Texture_Bord_World_1_Metalic
+
+
+Model_Table_World_1
+Background_Mountains_Snow_1
+Character_Girl_All_1
