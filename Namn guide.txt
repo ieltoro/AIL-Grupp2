@@ -1,4 +1,4 @@
-Categori_Object_world_Version
+Categori_Object_World_Version
 
 
 World Names:
@@ -8,8 +8,9 @@ World Names:
 Textuering ex:
 
 Texture_Bord_World_1_Albedo
-Texture_Bord_World_1_Nomral
-Texture_Bord_World_1_Metalic
+Texture_Bord_World_1_Normal
+Texture_Bord_World_1_Metallic
+Texture_Bord_World_1_Roughness
 
 
 Model_Table_World_1
