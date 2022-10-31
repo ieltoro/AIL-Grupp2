@@ -1,0 +1,1 @@
+MC_walk1 och SC_walk är en walk cycle som kan används för olika scen.
